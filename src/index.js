@@ -18,3 +18,4 @@ const whoIsTheGoat = [
   { name: 'font', link: font },
 ];
 
+import './styles/index.css'; // добавьте импорт главного файла стилей 
